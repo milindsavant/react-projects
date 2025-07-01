@@ -25,7 +25,7 @@ const Footer = () => {
           },
         }}
       >
-        All Rights Reserved &copy; Tejaswini
+        All Rights Reserved &copy;Milind
       </Typography>
     </Box>
   );

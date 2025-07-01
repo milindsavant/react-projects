@@ -82,13 +82,13 @@ const Contact = () => {
                 <TableRow>
                   <TableCell>
                     <MailIcon sx={{ color: "skyblue", mr: 1 }} />
-                    tejaswini@gmail.com
+                    milind@gmail.com
                   </TableCell>
                 </TableRow>
                 <TableRow>
                   <TableCell>
                     <CallIcon sx={{ color: "green", mr: 1 }} />
-                    1234567890
+                    9876543210
                   </TableCell>
                 </TableRow>
               </TableBody>
